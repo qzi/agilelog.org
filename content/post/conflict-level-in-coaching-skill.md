@@ -3,12 +3,12 @@ title: "Conflict Level In Coaching Skill"
 date: 2022-03-02T02:50:04+08:00
 categories:
 - coaching skill
-summary: draft to test typora and hugo integration
+summary: draft to test front matter, typora and hugo integration
 tags:
-- coaching
+- conflict
 ---
 
-draft to test font matter, typora and hugo integration
+draft to test front matter, typora and hugo integration
 
 ### Level 1: Problem to Solve
 
