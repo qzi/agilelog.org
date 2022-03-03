@@ -5,4 +5,6 @@ tags:
 - about
 ---
 
-Currently this blog will log my personal agile journey ...
+This blog would log my agile journey in current stage ...
+
+# ONE PIECEは确実にあるんだ
