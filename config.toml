@@ -50,7 +50,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   url = "/categories/"
 [[menu.main]]
   name = "About"
-  weight = 40
+  weight = 50
   identifier = "about"
   url = "/about/"
 
