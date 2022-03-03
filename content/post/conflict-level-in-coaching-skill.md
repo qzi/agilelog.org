@@ -6,6 +6,7 @@ categories:
 summary: draft to test front matter, typora and hugo integration
 tags:
 - conflict
+url: /coaching/conflict-level-in-coaching-skill
 ---
 
 draft to test front matter, typora and hugo integration
