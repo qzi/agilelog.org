@@ -5,6 +5,11 @@ tags:
 - about
 ---
 
-This blog would log my agile journey in current stage ...
-
 # ONE PIECEは确実にあるんだ
+
+*This blog would log my agile journey in current stage ...*
+
+Email: i@agilelog.org
+
+# 
+
