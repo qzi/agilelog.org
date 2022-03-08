@@ -9,7 +9,7 @@ tags:
 
 *This blog would log my agile journey in current stage ...*
 
-Email: i@agilelog.org
+*Email: i@agilelog.org*
 
 # 
 
