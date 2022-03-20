@@ -1,7 +1,7 @@
 ---
 title: "3c Card Conversation Confirmation"
 date: 2022-03-20T20:57:41+08:00
-url: /agile/conflict-level-in-coaching-skill/
+url: /agile/3c-card-conversation-confirmation/
 categories:
 - agile
 summary: 学习scrum 3C时发现来源XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到，看到这篇文章其实很短，所以想来慢慢划重点方便以后我重读
@@ -9,7 +9,7 @@ summary: 学习scrum 3C时发现来源XP 3C, 在Rachel Davies的《Agile Coachin
 
 Origin from: https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/
 
-学习scrum 3C时发现来源XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到，看到这篇文章其实很短，所以想来慢慢划重点方便以后我重读
+学习 Scrum 3C 时发现来源于 XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到，看到这篇文章其实很短，所以想来慢慢划重点方便以后我重读
 
 3c Card Conversation Confirmation 
 
