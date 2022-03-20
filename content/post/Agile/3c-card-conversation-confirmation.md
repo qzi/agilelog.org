@@ -8,7 +8,7 @@ categories:
 
 Origin from: https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/
 
-学习scrum 3C时发现来源XP 3C, 在Rachel Davies的书里面也有提到，看到这篇文章其实很短，所以想来慢慢划重点方便以后我重读
+学习scrum 3C时发现来源XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到，看到这篇文章其实很短，所以想来慢慢划重点方便以后我重读
 
 3c Card Conversation Confirmation 
 
@@ -22,9 +22,9 @@ User stories have three critical aspects. We can call these Card, Conversation, 
 
 ## Card
 
-User stories are written on cards. <u>The card does not contain all the information that makes up the requirement. Instead, the card has just enough text to identify the requirement, and to remind everyone what the story is.</u> The card is a token representing the requirement. It’s used in planning. Notes are written on it, reflecting priority and cost. It’s often handed to the programmers when the story is scheduled to be implemented, and given back to the customer when the story is complete.
+User stories are written on cards. <u>The card does not contain all the information that makes up the requirement. Instead, the card has just enough text to identify the requirement, and to remind everyone what the story is.</u> The card is a token representing the requirement. It’s used in planning. <u>Notes are written on it, reflecting priority and cost</u>. It’s often handed to the programmers when the story is scheduled to be implemented, and given back to the customer when the story is complete.
 
-
+这段是我体会比较深，就是有关Story AC 和 Specification 之间还是有区别，一个完整的Story并不体现需求的全部信息, 这回应了有些人对于Story究竟该写多细的问题
 
 ## Conversation
 
