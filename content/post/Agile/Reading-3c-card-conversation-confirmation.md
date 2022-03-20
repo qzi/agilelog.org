@@ -1,7 +1,7 @@
 ---
-title: "3c Card Conversation Confirmation"
+title: "Reading 3c Card Conversation Confirmation"
 date: 2022-03-20T20:57:41+08:00
-url: /agile/3c-card-conversation-confirmation/
+url: /agile/reading-3c-card-conversation-confirmation/
 categories:
 - agile
 summary: 学习scrum 3C时发现来源XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到，看到这篇文章其实很短，所以想来慢慢划重点方便以后我重读
