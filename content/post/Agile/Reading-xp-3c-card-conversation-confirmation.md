@@ -29,9 +29,9 @@ User stories are written on cards. <u>The card does not contain all the informat
 
 ## Conversation
 
-The requirement itself is communicated from customer to programmers through conversation: an *exchange* of thoughts, opinions, and feelings. This conversation takes place over time, particularly when the story is estimated (usually during release planning), and again at the iteration planning meeting when the story is scheduled for implementation. The conversation is largely verbal, but can be supplemented with documents. The best supplements are examples; the best examples are executable, We call these examples confirmation.
+The requirement itself is communicated from customer to programmers through conversation: an *exchange* of thoughts, opinions, and feelings. This conversation takes place over time, particularly when the story is estimated (usually during release planning), and again at the iteration planning meeting when the story is scheduled for implementation. <u>The conversation is largely verbal（口头，非书面）, but can be supplemented with documents.</u> The best supplements are examples; the best examples are executable, We call these examples confirmation.
 
-
+这段提到 Story 本身并不是一个需求闭环，它是一个识别并诱发澄清需求的非书面语媒介，所以细化需求单靠 Story 本身是不够的，可以委之于补充材料，但是最好的补充材料是Working Sofeware。
 
 ## Confirmation
 
