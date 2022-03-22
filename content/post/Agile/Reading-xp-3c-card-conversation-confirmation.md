@@ -9,7 +9,7 @@ summary: 学习scrum 3C时发现来源XP 3C, 在Rachel Davies的《Agile Coachin
 
 Origin from: https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/
 
-学习 Scrum 3C 时发现来源于 XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到 Ron Jeffries 的 3C ，看到这篇文章其实很短好读点，所以想来慢慢划重点方便以后我重读
+学习 Scrum 3C 时发现来源于 XP 3C, 在Rachel Davies的《Agile Coaching》书里面也有提到 Ron Jeffries 的 3C ，看到这篇文章其实很短好读点，所以想来慢慢划重点批注一下方便以后我重读
 
 3c Card Conversation Confirmation 
 
@@ -29,7 +29,7 @@ User stories are written on cards. <u>The card does not contain all the informat
 
 ## Conversation
 
-The requirement itself is <u>communicated from</u> customer to programmers <u>through conversation</u>: an *exchange* of thoughts, opinions, and feelings. This conversation takes place over time, particularly when the story is estimated (usually during release planning), and again at the iteration planning meeting when the story is scheduled for implementation. <u>The conversation is largely verbal（口头，非书面）, but can be supplemented with documents.</u> The best supplements are examples; <u>the best examples are executable</u>, We call these examples confirmation.
+The requirement itself is <u>communicated from</u> customer to programmers <u>through conversation</u>: an *exchange* of thoughts, opinions, and feelings. This conversation takes place over time, particularly when the story is estimated (usually during release planning), and again at the iteration planning meeting when the story is scheduled for implementation. <u>The conversation is largely verbal（口头的，非书面的）, but can be supplemented with documents.</u> The best supplements are examples; <u>the best examples are executable</u>, We call these examples confirmation.
 
 这段提到 Story 本身并不是一个需求闭环，它是一个识别并诱发澄清需求的非书面语媒介，所以细化需求单靠 Story 本身是不够的，可以委之于补充材料，但是最好的补充材料是Working Sofeware。
 
