@@ -8,9 +8,11 @@ categories:
 summary: Retrospective using ORID 
 ---
 
-ORID is an acronym for Objective, Reflective, Interpretational and Decisional.
+ORID is an acronym for Objective, Reflective, Interpretational and Decisional.  
 
-​    
+​      
+
+## ORID Method in Retro    
 
 ### Objective
 
@@ -61,7 +63,7 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 ​    
 
-### Reference:
+## Reference:
 
 The ORID Method (Objective, Reflective, Interpretive and Decisional)  
 https://extensionaus.com.au/extension-practice/the-orid-method-objective-reflective-interpretive-and-decisional/  
