@@ -16,7 +16,7 @@ ORID is an acronym for Objective, Reflective, Interpretational and Decisional.
 
 ### Objective
 
-Initial with " I see that .../I hear that ... etc." to state the fact in the past sprint
+Start with " The fact is ... /The data shows... etc." to state the fact in the past sprint
 
 No item limited
 
@@ -29,7 +29,7 @@ Limited in three minutes
 
 ### Reflective
 
-Initial with "I am happy, because .../I feel sad, because ..." according the fact in the previous round written by yours and others.
+Start with "I am happy, because .../I feel sad, because ..." according the fact in the previous round written by yours and others.
 
 Limited in three minutes
 
@@ -39,7 +39,7 @@ Limited in three minutes
 
 ### Interpretational
 
-Initial with "I think that ..."according the fact in previous two rounds
+Start with "My opinion is ..."according the fact in previous two rounds
 
 Limited in three minutes
 
