@@ -16,7 +16,7 @@ ORID is an acronym for Objective, Reflective, Interpretational and Decisional.
 
 ### Objective
 
-Start with " The fact is ... /The data shows... etc." to state the fact in the past sprint
+Start with " The fact is ... /The data shows... etc." to state the fact in the last sprint
 
 No item limited
 
