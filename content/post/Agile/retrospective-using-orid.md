@@ -53,7 +53,7 @@ Discuss the "DoD" of each item voted.
 
 Discuss Who is the owner
 
-"Is is SMART ?": A good follow up plan should align "Is it SMART"
+"Is is SMART ?": A good follow-up plan should align the "SMART"
 
 SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
