@@ -49,7 +49,7 @@ List the opitions we can achieve
 
 ### Decisional
 
-Based on the opinions in Round Interpretational, vote on three Objectives in Round Objective to follow up, three votes each person
+Based on the opinions in Round Interpretational, vote on three objectives in Round Objective to follow up, three votes each person
 
 Discuss the "DoD" of each item voted.
 
