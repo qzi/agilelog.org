@@ -1,7 +1,6 @@
 ---
 title: "Retrospective using ORID"
 date: 2022-05-14T02:25:28+08:00
-draft: true
 url: /agile/retrospective-using-orid/
 categories:
 - agile
