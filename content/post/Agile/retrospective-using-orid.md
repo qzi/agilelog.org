@@ -14,7 +14,7 @@ ORID is an acronym for Objective, Reflective, Interpretational and Decisional.
 
 ## ORID Method in Retro    
 
-Let's try a new pattern ORID in Retrospective Meeting.
+Yet another pattern in retrospective meeting - ORID
 
 
 
@@ -33,7 +33,7 @@ Limited in three minutes
 
 ### Reflective
 
-Start with "I am happy, because .../I feel sad, because ..." according the fact in the previous round written by yours and others.
+Start with "I am happy, because .../I feel sad, because ..." according the fact in the previous step written by yours and others.
 
 Limited in three minutes
 
@@ -43,7 +43,7 @@ Limited in three minutes
 
 ### Interpretational
 
-Start with "My opinion is ..."according the fact in previous two rounds
+Start with "My opinion is ..."according the fact in previous two steps
 
 Limited in three minutes
 
@@ -53,7 +53,7 @@ List the opitions we can achieve
 
 ### Decisional
 
-Based on the opinions in Round Interpretational, vote on three objectives in Round Objective to follow up, three votes each person
+Based on the opinions in Step Interpretational, vote on three objectives in Step Objective to follow up, three votes each person
 
 Discuss the "DoD" of each item voted.
 
@@ -69,9 +69,13 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 --------------- 一条华丽的分割线 --------------- 
 
-​      
+## Yep another example of ORID approach       
+
+
 
 Pay tribute to Steve McConneil, "***Code Complete 2***"
+
+​    
 
 *Characters*: 
 
@@ -91,13 +95,19 @@ END OF THE TEAM’S RETROSPECTIVE MEETING
 
 ​     
 
-​     
+### Objective     
 
-​     
+<u>GLAUCON:</u> "How many items can I write in the Step Objective?"
 
+<u>SOCRATES:</u> "There is no limit, Glaucon."
 
+<u>THRASYMACHUS:</u> "Is there any restriction on the Objective? "
 
+<u>SOCRATES:</u> "Just state the fact you concern in the last sprint."
 
+​    
+
+​    
 
 ## Reference:
 
