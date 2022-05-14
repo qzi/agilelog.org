@@ -61,7 +61,29 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 ​      
 
-​    
+----
+
+------------------------------------------------------------ 一条华丽的分割线 ---------------------------------------------------------------------
+
+Characters: 
+
+THRASYMACHUS A green, theoretical purist who believes everything he reads 
+
+CALLICLES A battle-hardened veteran from the old school—a “real” programmer 
+
+GLAUCON A young, confident, hot-shot computer jock 
+
+ISMENE A senior programmer tired of big promises, just looking for a few practices that work 
+
+SOCRATES The wise old programmer  
+
+Setting: END OF THE TEAM’S RETROSPECTIVE MEETING
+
+
+
+
+
+
 
 ## Reference:
 
