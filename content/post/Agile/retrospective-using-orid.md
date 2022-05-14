@@ -14,6 +14,10 @@ ORID is an acronym for Objective, Reflective, Interpretational and Decisional.
 
 ## ORID Method in Retro    
 
+Let's try a new pattern ORID in Retrospective Meeting.
+
+
+
 ### Objective
 
 Start with " The fact is ... /The data shows... etc." to state the fact in the last sprint
@@ -61,9 +65,9 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 ​      
 
-----
+--------------- 一条华丽的分割线 --------------- 
 
------------------------------------------------------------- 一条华丽的分割线 ---------------------------------------------------------------------
+​     
 
 Characters: 
 
@@ -79,7 +83,11 @@ SOCRATES The wise old programmer
 
 Setting: END OF THE TEAM’S RETROSPECTIVE MEETING
 
+​     
 
+​     
+
+​     
 
 
 
