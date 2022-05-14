@@ -65,11 +65,15 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 ​      
 
+​      
+
 --------------- 一条华丽的分割线 --------------- 
 
-​     
+​      
 
-Characters: 
+Pay tribute to Steve McConneil, "***Code Complete 2***"
+
+*Characters*: 
 
 THRASYMACHUS A green, theoretical purist who believes everything he reads 
 
@@ -81,7 +85,9 @@ ISMENE A senior programmer tired of big promises, just looking for a few practic
 
 SOCRATES The wise old programmer  
 
-Setting: END OF THE TEAM’S RETROSPECTIVE MEETING
+*Setting*: 
+
+END OF THE TEAM’S RETROSPECTIVE MEETING
 
 ​     
 
