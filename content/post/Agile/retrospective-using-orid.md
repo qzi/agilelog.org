@@ -16,7 +16,7 @@ ORID is an acronym for Objective, Reflective, Interpretational and Decisional.
 
 Yet another pattern in retrospective meeting - ORID
 
-
+​    
 
 ### Objective
 
@@ -120,5 +120,5 @@ https://extensionaus.com.au/extension-practice/the-orid-method-objective-reflect
 
 部分洋文审校：文老师，Doris      
 
-Copyright Notice in this page are licensed under [BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) 
+Copyright Notice:  This page is licensed under [BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) 
 
