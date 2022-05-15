@@ -99,11 +99,11 @@ END OF THE TEAM’S RETROSPECTIVE MEETING
 
 ### Objective     
 
-<u>GLAUCON:</u> "How many items can I write in this Step ?"
+<u>GLAUCON:</u> "How many items can I write in this step?"
 
 <u>SOCRATES:</u> "There is no limit, Glaucon."
 
-<u>THRASYMACHUS:</u> "Is there any restriction on the Objective? "
+<u>THRASYMACHUS:</u> "Is there any restriction on the Objective?"
 
 <u>SOCRATES:</u> "Just state the fact you concern in the last sprint."
 
