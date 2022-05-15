@@ -75,9 +75,9 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 
 
-In honor of Steve McConneil, "***Code Complete 2***"
+In honor of Steve McConnell，the author of "***Code Complete 2***"，the second   
 
-​    
+​      
 
 *Characters*: 
 
