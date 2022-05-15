@@ -69,11 +69,13 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 --------------- 一条华丽的分割线 --------------- 
 
+​      
+
 ## Yep another example of ORID approach       
 
 
 
-Pay tribute to Steve McConneil, "***Code Complete 2***"
+In honor of Steve McConneil, "***Code Complete 2***"
 
 ​    
 
@@ -97,7 +99,7 @@ END OF THE TEAM’S RETROSPECTIVE MEETING
 
 ### Objective     
 
-<u>GLAUCON:</u> "How many items can I write in the Step Objective?"
+<u>GLAUCON:</u> "How many items can I write in this Step ?"
 
 <u>SOCRATES:</u> "There is no limit, Glaucon."
 
