@@ -71,7 +71,7 @@ SMART: Specific, Measurable, Achievable, Relevant and Time-bound
 
 ​      
 
-## Yep another example of ORID approach       
+## Yet another example of ORID approach       
 
 
 
@@ -118,7 +118,7 @@ https://extensionaus.com.au/extension-practice/the-orid-method-objective-reflect
 
 ​      
 
-洋文审校：文老师，Doris      
+部分洋文审校：文老师，Doris      
 
 Copyright Notice in this page are licensed under [BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) 
 
