@@ -23,4 +23,3 @@ draft to test front matter, typora and hugo integration
 
 
 
-世界上有3种人：男人，女人，小熊
