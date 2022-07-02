@@ -111,17 +111,19 @@ END OF THE TEAM’S RETROSPECTIVE MEETING
 
 ### Reflective    
 
-<u>ISMENE</u>: "It seems that we are discussing about the room that we can improve, but is it valuable to share our happiness in this step ? Maybe ... I think ... huh ... I feel relax in this sprint without unhappiness."
+<u>ISMENE</u>: "It seems that we are discussing about the room that we can improve, but is it valuable to share our happiness in this step? Maybe ... I think ... huh ... I feel relax in this sprint without unhappiness."
 
 <u>SOCRATES:</u> "What do you think about that, Thrasymachus?"
 
-<u>THRASYMACHUS:</u> "Theoretically, happiness is greate power to influence the people and motivate them."
+<u>THRASYMACHUS:</u> "Theoretically, happiness is the greate power to influence the people and motivate them."
 
 <u>GLAUCON:</u> "I agree with that, Thrasymachus. Why should we stay in a team always strugles in trouble, we are in the team with great teamwork and  can breakthrough everything."
 
 <u>CALLICLES:</u> "Seriously speaking, we should have room to improve, but I extoll the kind of happiness that comes from a pursuit, the pursuit of climing the higher mountain."
 
+​    
 
+​    
 
 ## Reference:
 
