@@ -9,3 +9,21 @@ categories:
 summary: Branch Management
 ---
 
+## Prerequisite
+
+
+
+## Gitflow
+
+![git-model@2x](/branch-management/git-model@2x.png)
+
+git-model@2x
+
+
+
+## Versioning
+
+
+
+## Reference :
+https://nvie.com/posts/a-successful-git-branching-model/
