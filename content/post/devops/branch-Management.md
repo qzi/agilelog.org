@@ -43,7 +43,7 @@ https://semver.org/spec/v2.0.0.html
 
 ​    
 
-## Reference :
+## Reference 
 https://nvie.com/posts/a-successful-git-branching-model/
 
 https://git-scm.com/book/en/v2
