@@ -31,7 +31,7 @@ The Cucumber For Java Book - Behavior-Driven Development for Testers and Develop
 书中的例子只需要在 terminal下 cd 到对应的例子目录就可以直接运行，命令如下：
 
 ```bash
-#first_taste/01/cucumber
+#first_taste/02/cucumber
 $ java -cp "jars/*" cucumber.api.cli.Main -p pretty features
 $ ./cucumber
 ```
@@ -42,7 +42,17 @@ cucumber.api.cli.Main 就是我们要执行的程序的入口
 
 -p pretty 就是告诉cucumber 使用 pretty format 来显示输出结果
 
+```bash
+#作为对比可以去掉参数运行试试
+❯ java -cp "jars/*" cucumber.api.cli.Main features
+```
+
 features 是指到当前目录下的 features 目录去寻找 .feature 文件
+
+```bash
+#作为对比可以去掉features试试
+❯ java -cp "jars/*" cucumber.api.cli.Main
+```
 
 ​      
 
