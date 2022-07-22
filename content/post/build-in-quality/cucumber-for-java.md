@@ -23,14 +23,14 @@ The Cucumber For Java Book - Behavior-Driven Development for Testers and Develop
     
     
 
-# The Helper of Cucumber for Java book
+# The Helper of Cucumber for Java Book
 
 
 这本书是需要安装 JDK 并设置对应的环境变量的，否则没法在 terminal 里面直接运行 Java 命令，可自行 Google JDK installation。
 
 书中的例子只需要在 terminal下 cd 到对应的例子目录就可以直接运行，命令如下：
 
-```java
+```bash
 #first_taste/01/cucumber
 $ java -cp "jars/*" cucumber.api.cli.Main -p pretty features
 $ ./cucumber
