@@ -11,14 +11,14 @@ summary: Cucumber for Java
 
 # 为什么写这篇 Helper
 The Cucumber For Java Book - Behavior-Driven Development for Testers and Developers  
-Written by Sea Rose, Matt Wynne, and Aslak Hellesoy  
-Source Code：https://pragprog.com/titles/srjcuc/the-cucumber-for-java-book/  
+*Written by Sea Rose, Matt Wynne, and Aslak Hellesoy*  
+*Source Code：https://pragprog.com/titles/srjcuc/the-cucumber-for-java-book/*  
     
     
     
 《The Cucumber For Java Book》这本书对于刚入门的新手来说过于不友好，
 一个是 Java 世界的人不习惯用命令行来操作，大多数人是用 IDE 来写 Java，
-另一个是多数时候 Cucumber 多数时候是结合 Sprint boot 等框架一起编写，很少这样直接编写，书上的编写习惯给人感觉好像来自Ruby 世界，但是 Ruby 世界的命令千锤百炼，哪里像Java命令行那么丑，
+另一个是多数时候 Cucumber 多数时候是结合 Sprint boot 等框架一起编写，很少这样Core Java直接编写，书上的编写习惯给人感觉好像来自Ruby 世界，但是 Ruby 世界的命令千锤百炼，哪里像Java命令行那么丑，
 对于有些想学习 BDD 的管理型教练来说还是有点晦涩，故此有了这篇 Helper 文章。
     
     
