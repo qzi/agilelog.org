@@ -6,7 +6,7 @@ categories:
 
 - Build-in Quality
 
-summary: Cucumber for Java
+summary: The Helper of Cucumber for Java
 ---
 
 # 为什么写这篇 Helper
@@ -24,6 +24,8 @@ The Cucumber For Java Book - Behavior-Driven Development for Testers and Develop
     
 
 # The Helper of Cucumber for Java Book
+
+## Environment and Command Line
 
 
 这本书是需要安装 JDK 并设置对应的环境变量的，否则没法在 terminal 里面直接运行 Java 命令，可自行 Google JDK installation。
@@ -54,7 +56,42 @@ features 是指到当前目录下的 features 目录去寻找 .feature 文件
 ❯ java -cp "jars/*" cucumber.api.cli.Main
 ```
 
+​     
+
 ​      
+
+
+
+## Regular Expression
+
+正则表达式，做完就忘，触之google。
+
+```java
+@Given("^the price of a \"(.*?)\" is (\\d+)c$")
+public void thePriceOfAIsC(String name, int price) throws Throwable {
+  int bananaPrice = price;
+}
+```
+
+`$` 匹配输入字符串的结尾位置
+
+`^`  匹配输入字符串的开始位置
+
+`\`  将下一个字符标记为原义字符, `\"` 匹配 `"`, `\\` 匹配 `\`
+
+`+` 加号代表前面的字符必须至少出现一次（1次或多次）
+
+`\d` 是匹配一个数字(0到9)
+
+ `\d+` 表示一个或者多个数字
+
+`"\\d+"` 是在程序字符串 `""` 中，先转意`\\`为`\`, 然后组合出`\d+`
+
+`.`  匹配除换行符 \n 之外的任何单字符
+
+`"(.*?)"` 则是得到包含几个元素的列表，每个元素直接对应原来文本中不同的位置匹配的项
+
+​    
 
 _To be Continued ..._这个人很懒，有缘再续写
 
