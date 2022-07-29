@@ -1,6 +1,7 @@
 ---
 title: "Cucumber for Java"
 date: 2022-07-21T23:48:49+08:00
+lastmod: "2022-07-29"
 url: /build-in-quality/cucumber-for-java/
 categories:
 
@@ -11,14 +12,12 @@ summary: The Helper of Cucumber for Java
 
 # 为什么写这篇 Helper
 
-​    
-​    
 《The Cucumber For Java Book》这本书对于刚入门的新手来说过于不友好，
 一个是 Java 世界的人不习惯用命令行来操作，大多数人是用 IDE 来写 Java，
 另一个是多数时候 Cucumber 多数时候是结合 Sprint boot 等框架一起编写，很少这样Core Java直接编写，书上的编写习惯给人感觉好像来自Ruby 世界，但是 Ruby 世界的命令千锤百炼，哪里像Java命令行那么丑，
 对于有些想学习 BDD 的管理型教练来说还是有点晦涩，故此有了这篇 Helper 文章。
-​    
-​    
+    
+    
 
 # The Helper of Cucumber for Java Book
 
