@@ -96,7 +96,7 @@ public void thePriceOfAIsC(String name, int price) throws Throwable {
 ​    
 ## i18n
 
-这本书对新手的不友好程度我感觉有五颗星吧，不是库很旧，连java命令有些堵给不全，新手几乎不太可能一直跟着书的命令跑下去
+这本书对新手的不友好程度我感觉有五颗星吧，不只是库很旧，连java命令有些都给不全，新手几乎不太可能一直跟着书的命令跑下去
 
 ```bash
 #在原书附带的代码里面的那个first_taste/jars 下有本书以来的Jar包添加到 CLASSPATH 里面
@@ -116,7 +116,7 @@ zh-TW
 ❯ java -cp ".:jars/*" cucumber.api.cli.Main --i18n help
 ```
 
-里面了上面怎么玩的后，我们可以自己DIY一个高级版, 新建一个叫 `cucumber`的文件，内容如下：
+理解了上面怎么玩的后，我们可以自己DIY一个高级版, 新建一个叫 `cucumber`的文件，内容如下：
 
 ```bash
 #!/bin/sh
@@ -147,3 +147,9 @@ zh-TW
 
 _To be Continued ..._这个人很懒，有缘再续写
 
+
+
+# Reference
+
+info.cukes » cucumber-java   
+https://mvnrepository.com/artifact/info.cukes/cucumber-java
