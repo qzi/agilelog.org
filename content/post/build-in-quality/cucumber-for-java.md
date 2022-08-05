@@ -1,13 +1,13 @@
 ---
 title: "Cucumber for Java"
 date: 2022-07-21T23:48:49+08:00
-lastmod: "2022-07-29"
+lastmod: "2022-08-06"
 url: /build-in-quality/cucumber-for-java/
 categories:
 
 - Build-in Quality
 
-summary: The Helper of Cucumber for Java
+summary: The Helper of 《The Cucumber For Java Book》
 ---
 
 # 为什么写这篇 Helper
