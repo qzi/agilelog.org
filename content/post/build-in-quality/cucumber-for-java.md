@@ -94,6 +94,56 @@ public void thePriceOfAIsC(String name, int price) throws Throwable {
 `"(.*?)"` 则是得到包含几个元素的列表，每个元素直接对应原来文本中不同的位置匹配的项
 
 ​    
+## i18n
+
+这本书对新手的不友好程度我感觉有五颗星吧，不是库很旧，连java命令有些堵给不全，新手几乎不太可能一直跟着书的命令跑下去
+
+```bash
+#在原书附带的代码里面的那个first_taste/jars 下有本书以来的Jar包添加到 CLASSPATH 里面
+❯ export CLASSPATH=.:./jars/cucumber-core-1.2.0.jar:./jars/cucumber-java-1.2.0.jar:./jars/cucumber-jvm-deps-1.0.3.jar:./jars/gherkin-2.12.2.jar:./jars/junit-4.11.jar 
+
+❯ java cucumber.api.cli.Main --i18n help
+ar
+bg
+bm
+ca
+...
+uz
+vi
+zh-CN
+zh-TW
+# 完整的命令是这样
+❯ java -cp ".:jars/*" cucumber.api.cli.Main --i18n help
+```
+
+里面了上面怎么玩的后，我们可以自己DIY一个高级版, 新建一个叫 `cucumber`的文件，内容如下：
+
+```bash
+#!/bin/sh
+java cucumber.api.cli.Main $1 $2
+```
+
+之后就能运行了
+```bash
+❯ chmod a+x cucumber
+❯ ./cucumber --i18n help
+ar
+bg
+bm
+ca
+cs
+...
+hr
+hu
+id
+zh-CN
+zh-TW
+```
+
+大概做两件事情
+
+* 把Jar包加入到 CLASSPATH 里面
+* 用一个Shell Script来接收命令参数并传给 java cucumber.api.cli.Main 执行
 
 _To be Continued ..._这个人很懒，有缘再续写
 
