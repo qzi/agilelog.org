@@ -130,6 +130,51 @@ public void thePriceOfAIsC(String name, int price) throws Throwable {
 
 `"(.*?)"` 则是得到包含几个元素的列表，每个元素直接对应原来文本中不同的位置匹配的项
 
+
+
+### Another alternative: Cucumber Expression
+
+正则表达式太过繁琐，Cucumber本身提供了一种Cucumber Expression，`{word}`,`{string}`等等
+
+```features
+Feature: Landing in page
+
+Scenario: Login my account
+    Given I have previously created a username: kay
+    And I have previously created a password: okay
+    When I enter my username correctly
+    And I enter my passwrod correctly
+    And I click on the button "login"
+    Then I got a feedback "login successfully"
+```
+
+这里我用最近用nodejs写的一段BDD代码来举例几个用法，注意字符串和字面量之间的区别
+
+```bash
+
+Given("I have previously created a username: {word}", function (username) {
+  this.username = username;
+});
+
+Given("I have previously created a password: {word}", function (password) {
+  this.password = password;
+});
+
+...
+
+When("I click on the button {string}", function (button) {
+  if (button === "login") {
+    this.isSubmit = true;
+  } else {
+    this.isSubmit = false;
+  }
+});
+```
+
+类似的用法还有`int`,`float`等等，更多可以参考
+
+https://github.com/cucumber/cucumber-expressions#readme
+
 ​    
 ## i18n
 
