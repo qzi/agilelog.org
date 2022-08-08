@@ -150,7 +150,7 @@ Scenario: Login my account
 
 这里我用最近用nodejs写的一段BDD代码来举例几个用法，注意字符串和字面量之间的区别
 
-```bash
+```javascript
 
 Given("I have previously created a username: {word}", function (username) {
   this.username = username;
@@ -171,7 +171,7 @@ When("I click on the button {string}", function (button) {
 });
 ```
 
-类似的用法还有`int`,`float`等等，更多可以参考
+类似的用法还有`{int}`,`{float}`等等，更多可以参考
 
 https://github.com/cucumber/cucumber-expressions#readme
 
@@ -235,3 +235,6 @@ _To be Continued ..._这个人很懒，有缘再续写
 
 info.cukes » cucumber-java   
 https://mvnrepository.com/artifact/info.cukes/cucumber-java
+
+Cucumber Expression     
+https://github.com/cucumber/cucumber-expressions#readme
