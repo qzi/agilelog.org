@@ -231,12 +231,11 @@ zh-TW
 
 如果遇到编译上的兼容问题，请回想起来 info.cukes has deprated and migrated to io.cucumber.
 
-试试官方的 [10 minutes tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java), 就能得到一个使用了io.cucumber + junit 4的maven工程方便后续改代码了
+* 试试官方的 [10 minutes tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java), 就能得到一个使用了io.cucumber + junit 4的maven工程方便后续改代码了
 
-也可以试试我使用了io.cucumber 新库改的 Cucumber for Java Book 上的 [pom.xml](https://gist.githubusercontent.com/qzi/37813ad453b38867035729b00224c274/raw/ade0e5cc123bd41b465c73d5ce29327d2ffcc36d/pom.xml)
-运行`mvn package` 后就会copy所有依赖的Jar在target/lib下，用这些新库去运行书上的例子就不会有那些奇奇怪怪的问题了
+* 也可以试试我使用了io.cucumber 新库改的 Cucumber for Java Book 上的 [pom.xml](https://gist.github.com/qzi/37813ad453b38867035729b00224c274), 运行`mvn package` 后就会copy所有依赖的Jar在target/lib下，用这些新库去运行书上的例子就不会有那些奇奇怪怪的问题了
 
-需要注意的是原书代码上的 import 和 Main 入口需要改
+需要注意的是原书代码上的 import 和 Main 入口需要改成新库的
 
 ```java
 // import cucumber.api.java.en.*;
@@ -247,6 +246,8 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+
+  
 // cucumber.api.cli.Main
 cucumber.api.cli.Main
 ```
@@ -276,4 +277,4 @@ https://cucumber.io/docs/guides/
 https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java
 
 Gist of new pom.xml using io.cucumber.  
-https://gist.githubusercontent.com/qzi/37813ad453b38867035729b00224c274/raw/ade0e5cc123bd41b465c73d5ce29327d2ffcc36d/pom.xml
+https://gist.github.com/qzi/37813ad453b38867035729b00224c274
