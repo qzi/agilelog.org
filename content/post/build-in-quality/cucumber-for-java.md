@@ -271,3 +271,9 @@ https://github.com/cucumber/cucumber-expressions#readme
 
 Cucumber official guide.   
 https://cucumber.io/docs/guides/
+
+10 minutes official tutorial of  cucumber.  
+https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java
+
+Gist of new pom.xml using io.cucumber.  
+https://gist.githubusercontent.com/qzi/37813ad453b38867035729b00224c274/raw/ade0e5cc123bd41b465c73d5ce29327d2ffcc36d/pom.xml
