@@ -130,9 +130,9 @@ public void thePriceOfAIsC(String name, int price) throws Throwable {
 
 `"(.*?)"` 则是得到包含几个元素的列表，每个元素直接对应原来文本中不同的位置匹配的项
 
+​      
 
-
-### Another alternative: Cucumber Expression
+### Another Alternative: Cucumber Expression
 
 正则表达式太过繁琐，Cucumber本身提供了一种Cucumber Expression，`{word}`,`{string}`等等
 
@@ -227,6 +227,36 @@ zh-TW
 * 把Jar包加入到 CLASSPATH 里面
 * 用一个Shell Script来接收命令参数并传给 java cucumber.api.cli.Main 执行
 
+
+
+## New Born : From info.cukes To io.cucumber
+
+如果遇到编译上的兼容问题，请回想起来 info.cukes has deprated and migrated to io.cucumber.
+
+试试官方的10 minutes tutorial: https://cucumber.io/docs/guides/10-minute-tutorial/?lang=java
+
+也可以试试我使用了io.cucumber 新库改的 Cucumber for Java Book 上的 pom.xml, 运行`mvn package` 后就会copy所有依赖的Jar在target/lib下，用这些新库去运行书上的例子就不会有那些奇奇怪怪的问题了
+https://gist.githubusercontent.com/qzi/37813ad453b38867035729b00224c274/raw/ade0e5cc123bd41b465c73d5ce29327d2ffcc36d/pom.xml
+
+需要注意的是原书代码上的 import 和 Main 入口需要改
+
+```java
+// import cucumber.api.java.en.*;
+// import cucumber.api.PendingException;
+
+import io.cucumber.java.PendingException;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+// cucumber.api.cli.Main
+cucumber.api.cli.Main
+```
+
+
+
+
+
 _To be Continued ..._这个人很懒，有缘再续写
 
 
@@ -238,3 +268,6 @@ https://mvnrepository.com/artifact/info.cukes/cucumber-java
 
 Cucumber Expression     
 https://github.com/cucumber/cucumber-expressions#readme
+
+Cucumber official guide.   
+https://cucumber.io/docs/guides/
