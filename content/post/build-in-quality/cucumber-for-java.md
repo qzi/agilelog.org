@@ -249,7 +249,7 @@ import io.cucumber.java.en.When;
 
   
 // cucumber.api.cli.Main
-cucumber.api.cli.Main
+io.cucumber.core.cli.Main
 ```
 
 
