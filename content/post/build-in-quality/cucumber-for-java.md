@@ -38,7 +38,7 @@ The Cucumber For Java Book - Behavior-Driven Development for Testers and Develop
 
 ```bash
 $ javac -cp "jars/*" step_definitions/CheckoutSteps.java
-$ java -cp "jars/*" cucumber.api.cli.Main -p pretty -g step_definitions features
+$ java -cp "jars/*:." cucumber.api.cli.Main -p progress --snippets camelcase -g step_definitions features
 ```
 
 javac -cp "jars/*" step_definitions/CheckoutSteps.java 就是编译 step_definitions/CheckoutSteps.java 文件
@@ -49,10 +49,7 @@ cucumber.api.cli.Main 就是我们要执行的程序的入口
 
 -p pretty 就是告诉 cucumber 使用 pretty format 来显示输出结果
 
-```bash
-#作为对比可以去掉参数运行试试
-❯ java -cp "jars/*" cucumber.api.cli.Main features
-```
+--snippets camelcase 产生 `CamelCase`风格的 snippets，可以用参数 `underscore`生成 `snake_case` 风格的 snippets
 
 -g step_definitions 告诉 cucumber 去 step_definitions 目录下寻找对应的steps
 
@@ -60,7 +57,7 @@ features 是指到当前目录下的 features 目录去寻找 .feature 文件
 
 
 
-完整的命令和参数描述如下：
+可以先跳到 第十四章 去看完整的命令和参数描述：
 
 ```bash
 ❯ java cucumber.api.cli.Main --help
