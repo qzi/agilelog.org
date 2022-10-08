@@ -4,13 +4,11 @@ date: 2022-03-04T02:22:29+08:00
 noComment: true
 ---
 
-<b style="font-size:40px;">ONE PIECEは确実にあるんだ. </b>
-    
+<p style="font-size:40px;">ONE PIECEは确実にあるんだ. </p>
     
 </br>
-        
 
-This blog would log my agile journey in current stage ...
+<p>This blog would log my agile journey in current stage ...</p>
 
 Email: i@agilelog.org  
 Telegram: https://t.me/leon_qiu  
