@@ -14,3 +14,6 @@ noComment: true
 
 *Telegram: http://t.me/leon_qiu*
 
+
+*Subcribe my blog by email https://agilelog.org/rss-mail/feed*
+
