@@ -14,5 +14,12 @@ noComment: true
 
 *Telegram: https://t.me/leon_qiu*
 
-*Subcribe my blog by email https://agilelog.org/rss-mail/feed*
+*Subcribe my blog by email from https://agilelog.org/rss-mail/feed*
 
+       
+
+
+
+<u>Copyright Notice:</u>   
+​All the pages under https://agilelog.org
+are licensed under [BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) by default if no further specified in page
