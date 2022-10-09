@@ -22,7 +22,7 @@ noComment: true
 
 Email: i@agilelog.org  
 Telegram: https://t.me/leon_qiu  
-Subcribe my blog by email from https://agilelog.org/rss-mail/feed  
+Subcribe my blog by email from https://agilelog.org/rss-mail/subcribe  
 Follow.it: https://follow.it/agile-log?pub
 
 
