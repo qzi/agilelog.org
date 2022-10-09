@@ -11,8 +11,8 @@ noComment: true
 <p>This blog would log my agile journey in current stage ...</p>
 <form action="https://api.follow.it/subscription-form/YjI2WkphbGUzNXZoTGxubkNkb2hZZmJwbm5WcHFpTXkxNXhCSEFDVXFlajBRN2lUQlhzTngrVFpVbXBVVUVPaUp0UGVqYUtLdlhGMmwxSVllMThyV2VuUm9aL3VJK0RaVis0RnBaeVdJcE52bTVEWUovUGtjeEg1bU9sV3BiTzl8Uy9zTHJPLytZeTJCSFFmMWU1TTdMWmxSblE2dytPKy9sVFlzaDJEempVYz0=/8" method="post">
     <div >
-        <div><input type="email" name="email" required="required" placeholder="Enter your email" spellcheck="false" style="text-transform: none !important; font-family: Montserrat; font-weight: normal; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);"></div>
-        <button type="submit" style="text-transform: none !important; font-family: Montserrat; font-weight: bold; border-style: none;  font-size: 16px; text-align: center; background-color: transparent;">Click Here to Subcribe to Agile Log:</button>
+        <input type="email" name="email" required="required" placeholder="Enter your email" spellcheck="false" style="text-transform: none !important; font-family: Montserrat; font-weight: normal; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255);">
+        <button type="submit" style="text-transform: none !important; font-family: Montserrat; font-weight: bold; border-style: none;  font-size: 16px; text-align: center; background-color: transparent;">Click Here to Subcribe to Agile Log</button>
     </div>
 </form>
 
