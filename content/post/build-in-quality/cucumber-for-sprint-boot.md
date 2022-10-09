@@ -1,6 +1,6 @@
 ---
 title: "Cucumber for Sprint Boot"
-date: 2022-07-21T23:48:49+08:00
+date: 2022-10-10
 url: /build-in-quality/cucumber-for-sprint-boot/
 categories:
 
@@ -9,3 +9,4 @@ draft: true
 summary: Cucumber for Sprint Boot
 ---
 
+Test for rss mail
