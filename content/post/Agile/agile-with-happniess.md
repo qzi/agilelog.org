@@ -19,4 +19,4 @@ Nowadays, I am still thinking that how we can make the team work with happiness,
 
 后来我却意外地需要去思考另一个问题，我们如何变革能让团队成员工作得开心，而不只是让公司转型 ...   
 
- 
+ Copyright Notice: This page is licensed under [BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
