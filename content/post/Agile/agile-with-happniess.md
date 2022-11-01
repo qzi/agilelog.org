@@ -9,9 +9,9 @@ categories:
 summary: Agile With Happiness
 ---
 
-In the my early stage of my working journey, I was thinking that how we can help the team to work life balance without 996, then I join agile to learn how to tranform the corporation.   
+In  my early stage of my working journey, I was thinking that how we can help the team to work life balance without 996, then I join agile to learn how to tranform the corporation.   
 
-Nowadays, I am still thinking that how we can make the team work with happiness, not transform the corporation only.   
+Nowadays, I am still thinking that how we can make the team to work with happiness, not transformming the corporation only.   
 
 -----------------------------------
 
