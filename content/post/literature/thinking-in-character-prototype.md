@@ -28,4 +28,4 @@ summary:  Thinking in the character protoype for digital transformation
 之所以说先发布是因为纯属原创，反正我印象里面没有专门做这个切入点的人物原型，如有雷同，也可以告诉我知道，我很高兴学习多点
 ​      
 
-Copyright Notice:  All right reserved.
+Copyright Notice:  All rights reserved.
