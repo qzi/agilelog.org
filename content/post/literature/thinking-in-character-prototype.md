@@ -18,7 +18,7 @@ summary:  Thinking in the character protoype for digital transformation
 
 ## Persona A
 姓名：TBC  
-性别：皆可
+性别：皆可  
 年龄：相对年长了  
 家庭：已婚，有子女  
 人物特点：很习惯说一句口头禅，" 等你们老了，就知道 ... "  
