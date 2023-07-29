@@ -26,7 +26,7 @@ summary:  Thinking in the character protoype for digital transformation
 人生历程特点： 年轻时也没啥雄心壮志，没啥追求，所为最重要的标准就是稳定，但是熬到年老了后，就开始代入一个语境，“创新是你们年轻人的，年轻人就应该多尝试，多吃苦，未来是你们年轻人的 ... ”
     
       
-# A New Approach to Write a New Literature
+# A New Approach To Write A New Literature
       
 利用人物画像的技术来进行文学作品的增量写作的好处显示易见，就是可以通过一个又一个 Persona 的增量发布，来逐步整理生动的可交付理解的增量内容，虽然作品轮廓越来越清晰，最终可能会创造出全新的完整作品  
 
