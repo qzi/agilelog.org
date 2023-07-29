@@ -30,6 +30,8 @@ summary:  Thinking in the character protoype for digital transformation
       
 利用人物画像的技术来进行文学作品的增量写作的好处显示易见，就是可以通过一个又一个 Persona 的增量发布，来逐步整理生动的可交付理解的增量内容，虽然作品轮廓越来越清晰，最终可能会创造出全新的完整作品  
 
+# Notice
 之所以文章开头说先发布人物原型还因为纯属原创，反正我印象里面没有专门做这个切入点的人物原型，如有雷同，也可以告诉我知道，我很乐意学习多点  
+有关 Persona 的翻译，在本文为了跟人物原型对应，暂不翻译成用户画像，仅在本文翻译成人物画像  
 
 Copyright Notice:  All rights reserved.
