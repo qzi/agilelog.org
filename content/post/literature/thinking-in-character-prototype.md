@@ -35,7 +35,7 @@ summary:  Thinking in the character protoype for digital transformation
 人生历程特点： 年轻时说要重视积累，不能输出垃圾误人子弟，结果年老了还在积累，但是因为年长了想法不同，认为自己所学用于平时生活和工作就是输出，结果还是没有完成年轻时计划等待积累的输出   
       
       
-# A new approach to write a new literature
+# A New Approach To Write A New Literature
       
 利用人物画像的技术来进行文学作品的增量写作的好处显示易见，就是可以通过一个又一个 Persona 的增量发布，来逐步整理生动的可交付理解的增量内容，虽然作品轮廓越来越清晰，最终可能会创造出全新的完整作品  
 
