@@ -27,7 +27,7 @@ summary:  Thinking in the character protoype for digital transformation
 
 
 ## Persona B
-姓名：永远积累的人  
+姓名：永远在积累的人  
 性别：皆可  
 年龄：相对年长了  
 家庭：已婚，有子女  
