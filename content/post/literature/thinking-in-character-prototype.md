@@ -18,7 +18,7 @@ summary:  Thinking in the character protoype for digital transformation
 # Character Prototype
 
 ## Persona A
-**倚老卖老的人**
+**倚老卖老的人**  
 姓名：TBC  
 性别：皆可    
 年龄：相对年长了  
