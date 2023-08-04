@@ -18,12 +18,14 @@ summary:  Thinking in the character protoype for digital transformation
 # Character Prototype
 
 ## Persona A
+**倚老卖老的人**
 姓名：TBC  
 性别：皆可    
 年龄：相对年长了  
 家庭：已婚，有子女  
 人物特点：很习惯说一句口头禅，" 等你们老了，就知道 ... "  
 人生历程特点： 年轻时也没啥雄心壮志，没啥追求，所为最重要的标准就是稳定，但是熬到年老了后，就开始代入一个语境，“创新是你们年轻人的，年轻人就应该多尝试，多吃苦，未来是你们年轻人的 ... ”
+关于变革思考：企业里面的冻土层  
 
 
 ## Persona B
@@ -34,7 +36,7 @@ summary:  Thinking in the character protoype for digital transformation
 家庭：已婚，有子女  
 人物特点：重视高质量输出, 凡是输出都先计划积累个 4 到 6 年时间后再考虑输出，口头禅：“你写的这都是些啥垃圾？有人看吗？”    
 人生历程特点： 年轻时说要重视积累，不能输出垃圾误人子弟，结果年老了还在积累，但是因为年长了想法不同，认为自己所学用于平时生活和工作就是输出，结果还是没有完成年轻时计划等待积累的输出   
-      
+关于变革思考：计划型和迭代型的区别      
       
 # A New Approach To Write A New Literature
       
