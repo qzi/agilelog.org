@@ -47,7 +47,7 @@ summary:  Thinking in the character protoype for digital transformation
 家庭：已婚和未婚皆可  
 人物特点：为人善良，凡是尽量不得罪人，以实现最大和谐为行事纲领           
 人生历程特点： 处事以人为善，乐于助人，但是不易于采用带来阵痛的制度建设方案，凡是希望在原有基础为每个同事带来增量        
-关于变革思考：对应那种转型中怕别人带来阵痛，所以谁都不想得罪，结果举步维艰的，无法推进制度的人         
+关于变革思考：对应那种转型中怕给别人带来阵痛，所以谁都不想得罪，结果举步维艰的，无法推进带有阵痛制度建设的人         
       
 # A New Approach To Write A New Literature
       
