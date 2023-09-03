@@ -35,7 +35,7 @@ summary: The Observation of Psychological Safety
 
 ### 2.1 Questions for Critical Thinking
 那些在前线拼杀的人似乎更应该获得更好的补给？更大的荣耀？   
-自己的合作的对友钻空偷走自己的费力守护的果实？那更应该强调 collaborative responsiblity 吗？   
+自己的合作的对友钻空偷走自己的费力守护的果实？那更应该强调 collaborative ownership 吗？   
     
 
 ​    
