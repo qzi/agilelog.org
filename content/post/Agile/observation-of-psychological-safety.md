@@ -29,7 +29,7 @@ summary: The Observation of Psychological Safety
 作为被招聘到公司的某种类型的人，等到他们将来在公司成长起来会招聘跟自己契合的类型？还是补充的类型？       
 
 
-## 2. Scense for Cooperation   
+## 2. Scense for Shared Responsibility   
 游戏背景补充：  
 王者荣耀这游戏两边各 5 个角色组队协作对战，各有分工，蓝是加魔法值的，一般给队里的法师和打野，这游戏都是 5 个人一起赢或者一起输，不存在某个人胜利   
 
@@ -42,7 +42,18 @@ summary: The Observation of Psychological Safety
 那些在前线拼杀的人似乎更应该获得更好的补给？更大的荣耀？   
 自己的合作的对友钻空偷走自己的费力守护的果实？那更应该强调 collaborative ownership 吗？   
     
+    
 
+## 3. Scense for Existing      
+做转型的时候，时不时会听到一个特别有意思的说法：“存在即合理”，“每个人都有每个人的活法”，人家为啥说这个话，你可以细品 ...    
+但是我这会儿更关心这个说法在授权心理安全区的方面效果如何    
+1896年 S. W. Dyde 在翻译黑格尔《法哲学原理》（Elements of the Philosophy of Right） 中，给出了那句话的英译：What is rational is real; and what is real is rational. 理性先于现实，造成现实；而作为理性产物的现实，自然是合乎理性的。   
+如果被转型的人祭出这招，显然他在告诉他自己或者他人他的 real 是合理的，他现在的活法就挺好的，是不是就构建了一个心理安全区       
+
+### 3.1 Questions for Critical Thinking
+如果被转型的人自己说：“存在即是合理的，每个人都有每个人的活法”， 你怎么看？   
+如果敏捷人自己说：“存在即是合理的，每个人都有每个人的活法”， 你又怎么看？
+     
 ​    
 _作者有懒癌，慢慢写, TBC ..._  
 ​    
