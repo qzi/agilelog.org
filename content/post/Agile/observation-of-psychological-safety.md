@@ -41,10 +41,10 @@ summary: The Observation of Psychological Safety
 ### 2.1 Questions for Critical Thinking
 那些在前线拼杀的人似乎更应该获得更好的补给？更大的荣耀？   
 自己的合作的对友钻空偷走自己的费力守护的果实？那更应该强调 collaborative ownership 吗？   
-    
-    
+       
+       
 
-## 3. Scense for Existing      
+## 3. Scense for Reality      
 做转型的时候，时不时会听到一个特别有意思的说法：“存在即合理”，“每个人都有每个人的活法”，人家为啥说这个话，你可以细品 ...    
 但是我这会儿更关心这个说法在授权心理安全区的方面效果如何    
 1896年 S. W. Dyde 在翻译黑格尔《法哲学原理》（Elements of the Philosophy of Right） 中，给出了那句话的英译：What is rational is real; and what is real is rational. 理性先于现实，造成现实；而作为理性产物的现实，自然是合乎理性的。   
@@ -55,6 +55,20 @@ summary: The Observation of Psychological Safety
 如果敏捷人自己说：“存在即是合理的，每个人都有每个人的活法”， 你又怎么看？
      
 ​    
+## 4. Scense for Diversity      
+发现一个有趣的角度，为了不改变服务的多样性，因为人生而不同，人各有志，因而要保持多样性    
+这个非常有趣的说辞，最能让联想到的便是维护生物多样性，即便有些生物已经进入竞态边缘，我们为了维护生物多样性，我还是希望能将这些保护起来，更重要的是我们确实认为应该这么做。而如果这个说辞应用在为人创建心理安全区上，这是一个非常好的方法，假定每个人都该是不同的，保持现有状态为上，那为啥要向某个方向转型呢？   
+此类说辞预设了一个结果就是好像朝着某个方向转型，就趋同了，没有多样性，可以细思一下是否成立？
+
+### 4.1 Questions for Critical Thinking
+如果被转型的人自己说：“要保持多样性，人各有志”， 你要如何应对？   
+如果敏捷人自己说：“要保持多样性，人各有志”， 你又怎么看？  
+向某个方向转型，会损失多样性吗？   
+
+
+
+    
+    
 _作者有懒癌，慢慢写, TBC ..._  
 ​    
 
