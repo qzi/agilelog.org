@@ -1,6 +1,6 @@
 ---
 title: "Growing Against Just Old"
-date: 2024-08-30T02:50:04+08:00
+date: 2024-08-30T02:00:00+08:00
 categories:
 - coaching skill
 summary: Growing Against Just Old
